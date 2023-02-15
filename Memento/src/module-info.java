@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Selen
+ *
+ */
+module Memento {
+}
